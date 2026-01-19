@@ -9,7 +9,7 @@ export const metadata: Metadata = {
 export default function Page() {
   return (
     <div>
-      <Hero imgUrl="/performance.jpg" altTxt="Performance" content="Performance~~~"/>
+      <Hero imgUrl="/performance.jpg" altTxt="Performance" content="We serve high performance applications."/>
     </div>
   )
 }
